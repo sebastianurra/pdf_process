@@ -1,0 +1,4 @@
+\.venv
+text_ouput.txt
+config.py
+__pycache__
